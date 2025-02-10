@@ -7,7 +7,7 @@ public class BasicCalculator {
 	public static void main(String[] args) {
 		
 		String str = "Hi";
-		String str2 = "Hello";
+		String str3 = "Hello";
 		System.out.println("Added a new line");
 		System.out.println("Hii");
 		System.out.println("Byee");

@@ -9,7 +9,9 @@ public class BasicCalculator {
 		String str = "Hi";
 		String str2 = "Hello";
 		System.out.println("Added a new line");
-		System.out.println(str2.hashCode());
+		System.out.println("Hii");
+		System.out.println("Byee");
+		System.out.println(str.hashCode());
 		
 		double number1;
 		double number2;

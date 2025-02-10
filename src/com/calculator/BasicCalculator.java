@@ -8,7 +8,7 @@ public class BasicCalculator {
 		
 		String str = "Hi";
 		String str2 = "Hello";
-		System.out.println(str.hashCode());
+		System.out.println("Added a new line");
 		System.out.println(str2.hashCode());
 		
 		double number1;

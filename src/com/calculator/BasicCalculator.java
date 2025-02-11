@@ -7,9 +7,7 @@ public class BasicCalculator {
 	public static void main(String[] args) {
 		
 		String str = "Hi";
-		String str1 = "Hello";
-		String name ="Fayaz";
-
+		String str2 = "FLM";
 		
 		double number1;
 		double number2;

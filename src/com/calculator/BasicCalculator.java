@@ -7,7 +7,8 @@ public class BasicCalculator {
 	public static void main(String[] args) {
 		
 		String str = "Hi";
-		String str2 = "FLM";
+		String name="Fayaz";
+		System.out.println(str.hashCode());
 		
 		double number1;
 		double number2;

@@ -7,11 +7,8 @@ public class BasicCalculator {
 	public static void main(String[] args) {
 		
 		String str = "Hi";
-		String str3 = "Hello";
-		System.out.println("Added a new line");
-		System.out.println("Hii");
-		System.out.println("Byee");
-		System.out.println(str.hashCode());
+		String str1 = "Hello";
+		String name ="Fayaz";
 		
 		double number1;
 		double number2;

@@ -9,6 +9,7 @@ public class BasicCalculator {
 		String str = "Hi";
 		String str2 = "Bye";
 		String st3 ="Hello";
+		String st4 = "FLM";
 		System.out.println(str.hashCode());
 		System.out.println(str2.hashCode());
 		
